@@ -1,0 +1,63 @@
+{
+  "global:dnv.recyclecraft": {
+    "criteria": {
+      "trigger": "2023-03-06 05:28:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2023-03-06 05:36:07 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/plains": {
+    "criteria": {
+      "requirement": "2023-03-06 05:28:35 +0000"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2023-03-06 05:28:24 +0000"
+    },
+    "done": true
+  },
+  "global:dnv.more_compostable_items": {
+    "criteria": {
+      "trigger": "2023-03-06 05:28:24 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2023-03-06 05:28:24 +0000"
+    },
+    "done": true
+  },
+  "global:ps": {
+    "criteria": {
+      "trigger": "2023-03-06 05:28:24 +0000"
+    },
+    "done": true
+  },
+  "global:ps/book_of_experience": {
+    "criteria": {
+      "trigger": "2023-03-06 05:28:24 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:armored_elytra": {
+    "criteria": {
+      "tick": "2023-03-06 05:28:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2023-03-06 05:28:25 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3218
+}

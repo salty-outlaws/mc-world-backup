@@ -1,0 +1,41 @@
+{
+  "vanilla_refresh:biome/badlands": {
+    "criteria": {
+      "requirement": "2023-03-03 09:14:26 +0000"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2023-03-03 09:14:09 +0000"
+    },
+    "done": true
+  },
+  "global:ps": {
+    "criteria": {
+      "trigger": "2023-03-03 09:14:09 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/savanna": {
+    "criteria": {
+      "requirement": "2023-03-03 09:14:49 +0000"
+    },
+    "done": true
+  },
+  "global:ps/book_of_experience": {
+    "criteria": {
+      "trigger": "2023-03-03 09:14:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:badlands": "2023-03-03 09:14:26 +0000",
+      "minecraft:river": "2023-03-03 09:14:31 +0000",
+      "minecraft:savanna": "2023-03-03 09:14:49 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3218
+}

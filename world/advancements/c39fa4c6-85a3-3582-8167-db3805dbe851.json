@@ -1,0 +1,21 @@
+{
+  "global:root": {
+    "criteria": {
+      "trigger": "2023-03-03 18:36:28 +0000"
+    },
+    "done": true
+  },
+  "global:ps": {
+    "criteria": {
+      "trigger": "2023-03-03 18:36:28 +0000"
+    },
+    "done": true
+  },
+  "global:ps/book_of_experience": {
+    "criteria": {
+      "trigger": "2023-03-03 18:36:28 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3218
+}
