@@ -1,0 +1,70 @@
+{
+  "global:dnv.recyclecraft": {
+    "criteria": {
+      "trigger": "2023-03-13 19:48:52 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/plains": {
+    "criteria": {
+      "requirement": "2023-03-15 18:01:44 +0000"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2023-03-13 19:48:52 +0000"
+    },
+    "done": true
+  },
+  "global:dnv.more_compostable_items": {
+    "criteria": {
+      "trigger": "2023-03-13 19:48:52 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2023-03-13 19:48:52 +0000"
+    },
+    "done": true
+  },
+  "global:ps": {
+    "criteria": {
+      "trigger": "2023-03-13 19:48:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2023-03-13 19:49:03 +0000"
+    },
+    "done": true
+  },
+  "global:ps/book_of_experience": {
+    "criteria": {
+      "trigger": "2023-03-13 19:48:52 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:armored_elytra": {
+    "criteria": {
+      "tick": "2023-03-13 19:48:52 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/hurt": {
+    "criteria": {
+      "requirement": "2023-03-15 18:03:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2023-03-13 19:48:53 +0000",
+      "minecraft:plains": "2023-03-15 18:01:44 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3218
+}
