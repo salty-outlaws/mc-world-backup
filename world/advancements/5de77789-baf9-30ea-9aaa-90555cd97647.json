@@ -1,4 +1,58 @@
 {
+  "global:root": {
+    "criteria": {
+      "trigger": "2023-03-03 16:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2023-03-03 16:37:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2023-03-03 16:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2023-03-03 16:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2023-03-03 16:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2023-03-03 16:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2023-03-03 16:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2023-03-03 16:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2023-03-03 16:37:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2023-03-04 09:57:07 +0000"
@@ -11,12 +65,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2023-03-03 16:37:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2023-03-04 09:57:07 +0000"
@@ -26,12 +74,6 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2023-03-04 09:57:07 +0000"
-    },
-    "done": true
-  },
-  "vanilla_refresh:biome/plains": {
-    "criteria": {
-      "requirement": "2023-03-03 16:37:24 +0000"
     },
     "done": true
   },
@@ -59,13 +101,43 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:plains": "2023-03-03 16:37:24 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2023-03-04 09:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2023-03-04 09:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2023-03-04 09:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2023-03-04 09:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2023-03-04 09:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2023-03-04 09:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2023-03-04 09:57:07 +0000"
     },
@@ -77,95 +149,83 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+  "vanillatweaks:root": {
     "criteria": {
-      "has_cobblestone": "2023-03-04 09:57:07 +0000"
+      "tick": "2023-07-14 14:37:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
+  "vanillatweaks:timber": {
     "criteria": {
-      "in_water": "2023-03-03 16:37:32 +0000"
+      "tick": "2023-07-14 14:37:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/stone_sword": {
+  "vanillatweaks:player_head_drops": {
     "criteria": {
-      "has_cobblestone": "2023-03-04 09:57:07 +0000"
+      "tick": "2023-07-14 14:37:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/mangrove_boat": {
+  "vanillatweaks:dragon_drops": {
     "criteria": {
-      "in_water": "2023-03-03 16:37:32 +0000"
+      "tick": "2023-07-14 14:37:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cobblestone_wall": {
+  "vanillatweaks:armored_elytra": {
     "criteria": {
-      "has_cobblestone": "2023-03-04 09:57:07 +0000"
+      "tick": "2023-07-14 14:37:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "in_water": "2023-03-03 16:37:32 +0000"
+      "unlock_right_away": "2023-07-14 14:37:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/oak_boat": {
+  "vanillatweaks:silence_mobs": {
     "criteria": {
-      "in_water": "2023-03-03 16:37:32 +0000"
+      "tick": "2023-07-14 14:37:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_pickaxe": {
+  "vanillatweaks:unlock_all_recipes": {
     "criteria": {
-      "has_cobblestone": "2023-03-04 09:57:07 +0000"
+      "tick": "2023-07-14 14:37:58 +0000"
     },
     "done": true
   },
-  "global:root": {
+  "vanillatweaks:cauldron_concrete": {
     "criteria": {
-      "trigger": "2023-03-03 16:37:14 +0000"
+      "tick": "2023-07-14 14:37:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_axe": {
+  "global:dnv.more_compostable_items": {
     "criteria": {
-      "has_cobblestone": "2023-03-04 09:57:07 +0000"
+      "trigger": "2023-07-14 14:37:58 +0000"
     },
     "done": true
   },
-  "global:ps": {
+  "global:dnv.recyclecraft": {
     "criteria": {
-      "trigger": "2023-03-03 16:37:14 +0000"
+      "trigger": "2023-07-14 14:37:58 +0000"
     },
     "done": true
   },
-  "global:ps/book_of_experience": {
+  "vanillatweaks:double_shulker_shells": {
     "criteria": {
-      "trigger": "2023-03-03 16:37:14 +0000"
+      "tick": "2023-07-14 14:37:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
+  "vanillatweaks:graves": {
     "criteria": {
-      "in_water": "2023-03-03 16:37:32 +0000"
+      "tick": "2023-07-14 14:37:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2023-03-03 16:37:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2023-03-04 09:57:07 +0000"
-    },
-    "done": true
-  },
-  "DataVersion": 3218
+  "DataVersion": 3465
 }

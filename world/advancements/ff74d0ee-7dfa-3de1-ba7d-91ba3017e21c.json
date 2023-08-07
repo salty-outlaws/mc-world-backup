@@ -1,0 +1,69 @@
+{
+  "global:dnv.recyclecraft": {
+    "criteria": {
+      "trigger": "2023-05-08 14:26:42 +0000"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2023-05-08 14:26:42 +0000"
+    },
+    "done": true
+  },
+  "global:dnv.more_compostable_items": {
+    "criteria": {
+      "trigger": "2023-05-08 14:26:42 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2023-05-08 14:26:42 +0000"
+    },
+    "done": true
+  },
+  "global:ps": {
+    "criteria": {
+      "trigger": "2023-05-08 14:26:42 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/terralith/highlands": {
+    "criteria": {
+      "requirement": "2023-05-08 14:35:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2023-05-08 17:18:25 +0000"
+    },
+    "done": true
+  },
+  "global:cauldron_concrete_powder": {
+    "criteria": {
+      "always": "2023-05-08 14:26:42 +0000"
+    },
+    "done": true
+  },
+  "global:stoupy51": {
+    "criteria": {
+      "trigger": "2023-05-08 14:26:42 +0000"
+    },
+    "done": true
+  },
+  "global:ps/book_of_experience": {
+    "criteria": {
+      "trigger": "2023-05-08 14:26:42 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:armored_elytra": {
+    "criteria": {
+      "tick": "2023-05-08 14:26:42 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3218
+}

@@ -1,0 +1,57 @@
+{
+  "global:dnv.recyclecraft": {
+    "criteria": {
+      "trigger": "2023-05-10 16:07:36 +0000"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2023-05-10 16:07:36 +0000"
+    },
+    "done": true
+  },
+  "global:dnv.more_compostable_items": {
+    "criteria": {
+      "trigger": "2023-05-10 16:07:36 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2023-05-10 16:07:36 +0000"
+    },
+    "done": true
+  },
+  "global:ps": {
+    "criteria": {
+      "trigger": "2023-05-10 16:07:36 +0000"
+    },
+    "done": true
+  },
+  "global:cauldron_concrete_powder": {
+    "criteria": {
+      "always": "2023-05-10 16:07:36 +0000"
+    },
+    "done": true
+  },
+  "global:stoupy51": {
+    "criteria": {
+      "trigger": "2023-05-10 16:07:36 +0000"
+    },
+    "done": true
+  },
+  "global:ps/book_of_experience": {
+    "criteria": {
+      "trigger": "2023-05-10 16:07:36 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:armored_elytra": {
+    "criteria": {
+      "tick": "2023-05-10 16:07:36 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3218
+}
